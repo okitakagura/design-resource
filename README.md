@@ -56,6 +56,11 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 
 + [Brand Colors](http://brandcolors.net/)
 
++ [Palettes](https://flatuicolors.com/)
+
++ [Color Hunt](https://colorhunt.co/)
+
++ [Pei Se](http://www.peise.net/)
 ##  Guidelines
 + [iOS Human Interface Guidelines10](https://developer.apple.com/ios/human-interface-guidelines/)
 
